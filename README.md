@@ -4,4 +4,4 @@
 # oque foi usado na construção
 - HTML
 - CSS
-## link do vecel: 
+## link do vercel: 
